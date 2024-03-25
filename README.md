@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CafeLatte23
+- 👋 Hi, I’m Chi J.
 - 👀 I’m interested in web design and front end development.
 - 🌱 I’m currently learning Project Management, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on any React work because I want to learn more about it.
